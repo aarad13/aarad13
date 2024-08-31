@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d29ccb553501e3c342eb01?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **aarad13/aarad13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
